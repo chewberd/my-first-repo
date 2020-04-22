@@ -1,3 +1,40 @@
+commit 0138abc452216a6e9c1294daab8b6ad40f8743ed
+Merge: 3879189 739e6b3
+Author: chewberd <chatrin.88@gmail.com>
+Date:   Wed Apr 22 17:34:39 2020 +0100
+
+    resolved conflict
+
+commit 387918955b36afcf2952a0e85ec4aed7fece525d
+Author: chewberd <chatrin.88@gmail.com>
+Date:   Wed Apr 22 17:28:29 2020 +0100
+
+    changed sunny to windy
+
+commit 739e6b3af87bc06a9e6d2f32c46d6bf935d3b1a8
+Author: chewberd <chatrin.88@gmail.com>
+Date:   Wed Apr 22 17:27:47 2020 +0100
+
+    changed sunny to cloudy
+
+commit 28e32cd3ce1568c6747169f52fb8a9b102886df3
+Author: chewberd <chatrin.88@gmail.com>
+Date:   Wed Apr 22 17:21:55 2020 +0100
+
+    added weather info
+
+commit a0abfb5b38287391d6a25948eb72f0f3bd8e3623
+Author: chewberd <chatrin.88@gmail.com>
+Date:   Wed Apr 22 17:17:07 2020 +0100
+
+    added a third line to readme.txt
+
+commit d8881caaa979b94d23ba9f416b42fc8f61dcacc5
+Author: chewberd <chatrin.88@gmail.com>
+Date:   Wed Apr 22 17:03:06 2020 +0100
+
+    log added
+
 commit 7c96e63d068030a223b9fa7a4e64f875552fd819
 Author: chewberd <chatrin.88@gmail.com>
 Date:   Wed Apr 22 16:10:43 2020 +0100
