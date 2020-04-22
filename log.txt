@@ -1,0 +1,35 @@
+commit 7c96e63d068030a223b9fa7a4e64f875552fd819
+Author: chewberd <chatrin.88@gmail.com>
+Date:   Wed Apr 22 16:10:43 2020 +0100
+
+    added gitignore
+
+commit 8a656a595d40b5f6df4b447ba884e619a378f288
+Author: chewberd <chatrin.88@gmail.com>
+Date:   Wed Apr 22 16:09:06 2020 +0100
+
+    added gitignore
+
+commit 29925506601f945f55a60c5bb9a0d987c657b8b0
+Author: chewberd <chatrin.88@gmail.com>
+Date:   Wed Apr 22 15:58:02 2020 +0100
+
+    added gitignore
+
+commit 55394ff340bfdcf4c67a9f91516aefc82cd31338
+Author: chewberd <chatrin.88@gmail.com>
+Date:   Mon Apr 20 00:07:12 2020 +0100
+
+    added two files
+
+commit fdfac69b3312e959961e899546351c05ca454ac1
+Author: chewberd <chatrin.88@gmail.com>
+Date:   Mon Apr 20 00:05:02 2020 +0100
+
+    added two files
+
+commit 8d53c571234262ae082bf5b64161cc3dd6883f74
+Author: chewberd <chatrin.88@gmail.com>
+Date:   Mon Apr 20 00:01:01 2020 +0100
+
+    added readme.txt
